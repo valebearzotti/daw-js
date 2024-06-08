@@ -33,3 +33,5 @@ if (age < 2) {
 } else {
     alert("Anciano");
 }
+
+console.log("END If Else");
