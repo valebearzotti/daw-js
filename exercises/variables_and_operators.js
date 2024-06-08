@@ -2,6 +2,8 @@
 Variables and Operators
 */
 
+console.log("BEGIN Variables & operators");
+
 // Ejercicio 1
 
 console.log("Ejercicio 1");
@@ -25,3 +27,5 @@ var str3 = "Hello";
 var str4 = "World!";
 var largoSuma = str3.length + str4.length;
 console.log("Largo de la suma: " + largoSuma);
+
+console.log("END Variables & operators");
