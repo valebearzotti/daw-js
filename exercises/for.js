@@ -21,4 +21,22 @@ for (const i = 0; i < words.length; i++) {
     alert(capitalizedWord);
 }
 
+// Ejercicio 3
+
+console.log("Ejercicio 3");
+var sentence = "";
+for (var i = 0; i < words.length; i++) {
+    sentence += words[i] + " ";
+}
+alert(sentence.trim());
+
+// Ejercicio 4
+
+console.log("Ejercicio 4");
+var numbers = [];
+for (var i = 0; i < 10; i++) {
+    numbers.push(i);
+}
+console.log(numbers);
+
 console.log("END For");
